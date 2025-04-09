@@ -6,6 +6,9 @@ public class practica2 {
         Scanner input = new Scanner(System.in);
         System.out.println("cual es tu nombre");
         String nombre = input.nextLine();
+        String nombre2 = "Lucas";
+        String nombre3= "Bautis";
+        System.out.println(nombre);
 
 
 
